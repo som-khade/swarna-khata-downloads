@@ -1,0 +1,13 @@
+{
+  "kind": "swarna-khata-release",
+  "product": "CLOUD",
+  "package": "com.cpaxtra.swarnakhata.cloud",
+  "versionName": "1.0.3",
+  "versionCode": 3,
+  "file": "SwarnaKhata-Cloud-release.apk",
+  "size": 1308052,
+  "sha256": "15fb2d420c7e5bd24e965d1efba766943dd66096e69d299e9f88c362c431b445",
+  "certSha256": "0aa3c7960d725d63d74e272a9379db437fa78ace72c81a44bd6df786c49ca306",
+  "minified": true,
+  "builtAt": "2026-10-22T05:00:42Z"
+}

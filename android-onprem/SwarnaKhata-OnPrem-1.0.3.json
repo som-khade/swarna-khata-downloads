@@ -1,0 +1,13 @@
+{
+  "kind": "swarna-khata-release",
+  "product": "ONPREM",
+  "package": "com.cpaxtra.swarnakhata.onprem",
+  "versionName": "1.0.3",
+  "versionCode": 3,
+  "file": "SwarnaKhata-OnPrem-release.apk",
+  "size": 58654502,
+  "sha256": "64c4bace51a31e3226c52f9697f9c52d01532bf860aebec82ef8dc954b8d13c2",
+  "certSha256": "0aa3c7960d725d63d74e272a9379db437fa78ace72c81a44bd6df786c49ca306",
+  "minified": true,
+  "builtAt": "2026-10-22T05:00:58Z"
+}
